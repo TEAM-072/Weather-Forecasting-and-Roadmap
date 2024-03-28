@@ -1,0 +1,9 @@
+google_maps_flutter
+flutter_spinkit
+geolocator
+http
+
+
+// To build Windows Version you Need Visual Studio Code with Windows API & MSVC 19 and Above and build using  `  flutter build windows   `
+// To build Linux Version clone this repo in Linux Machine and build using ` flutter build linux `( for Release Version use --release flag after the linux ) 
+// To build Mac Version clone this repo in Mac Machine and build using ` flutter build mac `( for iOS Version use  ` flutter build ios ` ) 
